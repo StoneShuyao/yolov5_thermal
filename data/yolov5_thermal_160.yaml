@@ -1,0 +1,5 @@
+train: /home/shuyao/Documents/Data/CoEdge/Thermal/yolo_thermal_160/train
+val: /home/shuyao/Documents/Data/CoEdge/Thermal/yolo_thermal_160/val
+
+nc: 6
+names: ["person", "bike", "car", "motor", "bus", "truck"]
